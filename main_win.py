@@ -57,5 +57,5 @@ async def get_path():
     return eText
 
 if __name__ == '__main__':
-    Text = "Путь определяется..."
+    eText = "Путь определяется..."
     asyncio.run(main())
